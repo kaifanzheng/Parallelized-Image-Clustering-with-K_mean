@@ -1,1 +1,0 @@
-RunAll Proj 6.ipynb for the result of our implementation. Remember to upload the test images. All images can be found in sourceCode folder. 
