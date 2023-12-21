@@ -1,7 +1,5 @@
 # ClusterVision: CUDA Multi-threaded Image Analysis
-
-Noshin Chowdhury & Hongfei Liu & Weiheng Xiao & Kaifan Zheng
-
+**Kaifan Zheng & Noshin Chowdhury & Hongfei Liu & Weiheng Xiao**
 ## Introduction
 ClusterVision presents an innovative approach to enhance image segmentation in computer vision. By integrating Principal Component Analysis (PCA) with K-Means clustering and CUDA parallelization, this project achieves significant improvements in both accuracy and processing speed.
 
