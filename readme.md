@@ -82,4 +82,4 @@ K-Means process steps:
 - Exploring Gaussian Mixture Model (GMM) for improved adaptability and accuracy.
 - Future efforts include parallelizing GMM for GPU computing and integrating data prefetching to optimize memory access.
 
-For more detailed information, please refer to the [Report PDF File](https://github.com/Noshin03/ClusterVision--CUDA-Multi-threaded-Image-Analysis/report.pdf).
+For more detailed information, please refer to the [Report PDF File](https://github.com/kaifanzheng/Parallelized-Image-Clustering-with-K_mean/blob/main/proj%206%20Final%20report.pdf).
